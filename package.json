@@ -14,7 +14,7 @@
   },
   "dependencies": {
     "gulp-util": "~2.2.14",
-    "juice": "git://github.com/Automattic/juice.git#37b2af7b75249ab2dc5d7d47a3c5b2bf53ae26d8",
+    "juice": "git://github.com/1stdibs/juice.git#5df1c06a704f6f0e94d8ab28573db9f19759ed0b",
     "event-stream": "~3.1.0"
   },
   "keywords": [
